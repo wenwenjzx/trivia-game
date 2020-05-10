@@ -1,0 +1,23 @@
+#wrapper{
+ width: 960px;
+ background-color: seashell;
+
+display: inline-block;
+
+}
+#title{
+    color:white;
+    background-color:pink ;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    color:tomato ;
+    font-family: 'Pacifico', cursive;
+}
+h3{
+    color: tomato;
+    font-family: 'Pacifico', cursive;
+}
+.btn {
+    background-color: hotpink;
+}
